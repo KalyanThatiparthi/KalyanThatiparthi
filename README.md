@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KalyanThatiparthi
-- 👀 I’m interested in API, Product Development and Frontend development
+- 👀 I’m interested in API, Product Development and Frontend & Backend development
 - 🌱 I’ve the skills in python, c, java, django, html, css, SQL.
--  I’m currently learning Java Script, AI-Ml and Data Science
+- 🤗 I’m currently learning Java Script, AI-Ml and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kalyancse.908@gmail.com
 
